@@ -10,6 +10,7 @@ import java.util.Random;
  *
  */
 public class JavaUtility {
+	//the code is changed
 	/**
 	 * This method generate random number within the specified limit
 	 * @param limit
